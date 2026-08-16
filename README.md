@@ -53,6 +53,7 @@ Current Focus: Enterprise Cloud Migration & Transformation on AWS
 
 - 🐳 Designed and deployed microservice architectures leveraging AWS Lambda and container platforms (Docker, ECS)
 - 🎬 Automated transcoding workflows with AWS Media Converter
+- 📺 **VOD Automation in Media:** Built end-to-end Video-on-Demand (VOD) pipelines using AWS MediaConvert, S3, Lambda, and CloudFront for automated ingestion, transcoding (CBR, VBR, QVBR), packaging, and delivery of media assets at scale
 - ⚡ Delivered serverless CI/CD pipelines, reducing deployment time and operational overhead
 - 📡 Deployed live channels and serverless automation on Oracle Cloud Infrastructure
 - 🔍 Conducted OS-level troubleshooting and debugging to resolve production-critical issues

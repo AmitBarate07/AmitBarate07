@@ -15,12 +15,13 @@
 
 ```yaml
 Name: Amit Barate
-Role: AWS Engineer @ Arise | Solutions Architect | Cloud Migration Specialist
+Role: AWS Engineer @ Arise | Solutions Architect | DevOps Lead
 Experience: 7+ Years in Cloud & DevOps
 Location: Pune, India
+Expertise: Cloud Migration, Infrastructure as Code, CI/CD, Containerization, Serverless, Monitoring
 Workloads Migrated: 100+
 Downtime Achieved: Near Zero
-Current Focus: Enterprise Cloud Migration & Transformation on AWS
+Current Focus: AWS Architecture, Terraform Automation, Kubernetes, Cost Optimization & Media Workflows
 ```
 
 - ☁️ Migrated **100+ workloads** across multiple waves with zero data loss

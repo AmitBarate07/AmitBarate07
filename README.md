@@ -32,6 +32,33 @@ Current Focus: Enterprise Cloud Migration & Transformation on AWS
 
 ---
 
+## 📋 Professional Summary
+
+> 13 years' professional experience, including 7 years in IT (since Sept 2018)
+
+| Domain | Expertise |
+|--------|-----------|
+| **Leadership & Consulting** | Guided enterprises in IT transformation, facilitated stakeholder workshops, built migration business cases (TCO, ROI, risk assessments), and trained teams on AWS best practices |
+| **Cloud Migration** | Migrated 100+ workloads with zero data loss & minimal downtime; skilled in Rehost, Replatform, Refactor, Retire, and Retain strategies |
+| **Solutions Architecture** | Helped companies transform IT infrastructure, operations & applications for scalability, innovation, and cost efficiency on AWS |
+| **AWS & OCI Services** | Hands-on with VPC, EC2, RDS, IAM, S3, CloudWatch, CloudFormation, Route53, ECS, Lambda, CloudFront, Control Tower, Cloud9, OCI Functions |
+| **Infrastructure & Architecture** | Designed hybrid cloud architectures (Direct Connect, VPN, Transit Gateway), scalable microservices, highly available stateful/stateless systems |
+| **Database Migrations** | Oracle → Aurora, SQL Server → RDS, MongoDB → DocumentDB, with schema conversion using AWS SCT |
+| **Automation & DevOps** | Infrastructure automation with Terraform, AWS CDK, CloudFormation; CI/CD with AWS SAM; config management with Ansible; scripting with Bash, Python, Lambda |
+| **Monitoring & Security** | Best practices with ELK, Nagios, Zabbix, New Relic; hardened Apache, Nginx, MySQL for enhanced security |
+| **Consulting Engagements** | Served on-site for major financial services organizations to optimize cloud infrastructure, conduct training, and drive cloud adoption |
+| **Cost Optimization** | Delivered measurable savings through AWS infrastructure tuning and workload right-sizing |
+
+### Additional Accomplishments
+
+- 🐳 Designed and deployed microservice architectures leveraging AWS Lambda and container platforms (Docker, ECS)
+- 🎬 Automated transcoding workflows with AWS Media Converter
+- ⚡ Delivered serverless CI/CD pipelines, reducing deployment time and operational overhead
+- 📡 Deployed live channels and serverless automation on Oracle Cloud Infrastructure
+- 🔍 Conducted OS-level troubleshooting and debugging to resolve production-critical issues
+
+---
+
 ## 🛠️ Tech Stack
 
 <table>

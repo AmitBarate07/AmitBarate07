@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="image.png" width="200" style="border-radius: 50%;" alt="Amit Barate" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3584E4&center=true&vCenter=true&width=600&lines=Hello+There+%F0%9F%91%8B;I'm+Amit+Barate;AWS+Engineer+%40+Arise;Cloud+Migration+Specialist;Solutions+Architect;7%2B+Years+in+Cloud+%26+DevOps" alt="Typing SVG" />
 </p>
 

@@ -188,6 +188,32 @@ timeline
 
 ---
 
+## � Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [AWS-Migration-Playbook](https://github.com/AmitBarate07/AWS-Migration-Playbook) | End-to-end migration runbooks, wave planning, and cutover strategies | AWS MGN, DMS, SCT, Terraform |
+| [VOD-Automation-Pipeline](https://github.com/AmitBarate07/VOD-Automation-Pipeline) | Serverless VOD pipeline with automated transcoding and CDN delivery | AWS MediaConvert, Lambda, S3, CloudFront |
+| [Terraform-AWS-Infra](https://github.com/AmitBarate07/Terraform-AWS-Infra) | Reusable Terraform modules for production-ready AWS infrastructure | Terraform, VPC, EKS, RDS, IAM |
+| [CI-CD-Pipelines](https://github.com/AmitBarate07/CI-CD-Pipelines) | CI/CD pipeline templates for containerized and serverless deployments | GitHub Actions, GitLab CI, CodeBuild |
+| [Monitoring-Stack](https://github.com/AmitBarate07/Monitoring-Stack) | Centralized monitoring setup with alerting and dashboards | Prometheus, Grafana, ELK, CloudWatch |
+| [Expense-Tracker](https://github.com/AmitBarate07/Expense-Tracker) | Personal expense tracking application with analytics and reporting | Python, Lambda, DynamoDB |
+| [Skandha-TAMS](https://github.com/AmitBarate07/Skandha-TAMS) | Transcoding & Asset Management System for media workflows | AWS MediaConvert, S3, Lambda, Rekognition |
+
+---
+
+## 📚 Learning & Notes
+
+| Repository | Topic | Status |
+|------------|-------|--------|
+| [AWS-SA-Professional-Notes](https://github.com/AmitBarate07/AWS-SA-Professional-Notes) | AWS Solutions Architect Professional exam prep & notes | ✅ Completed |
+| [Kubernetes-Learning](https://github.com/AmitBarate07/Kubernetes-Learning) | EKS, Helm, service mesh, and K8s patterns | 🔄 In Progress |
+| [Terraform-Deep-Dive](https://github.com/AmitBarate07/Terraform-Deep-Dive) | Advanced Terraform patterns, modules, and state management | 🔄 In Progress |
+| [Python-for-DevOps](https://github.com/AmitBarate07/Python-for-DevOps) | Boto3, Lambda functions, automation scripts | ✅ Completed |
+| [Docker-and-Containers](https://github.com/AmitBarate07/Docker-and-Containers) | Dockerfile best practices, multi-stage builds, ECS/EKS deployment | ✅ Completed |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
